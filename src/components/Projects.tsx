@@ -11,7 +11,7 @@ const projects = [
     image: "https://uicookies.com/wp-content/uploads/2018/08/education-free-college-website-templates.jpg",
     tags: ["HTML", "CSS"],
     github: "https://github.com/NKNakulkumar/College--Website",
-    demo: "https://nknakulkumar.github.io/College--Website/"
+    demo: "https://nknakulkumar.github.io/College-Website/"
   },
   {
     title: "Weather Forecast Application",
