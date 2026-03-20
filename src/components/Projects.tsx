@@ -32,7 +32,7 @@ const projects = [
   {
     title: "Restaurant_App",
     description: "This is a simple and user-friendly app that lets customers view a restaurant’s menu digitally. It shows different food categories like breakfast,lunch,evening,dinner and details. ",
-    image: "/src/components/images/restaurant.jpg",
+    image: "https://imgs.search.brave.com/58sYoKOr8W3cMwK5PL_W34UsBhh3mDNk8owjfDzrbro/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJ1cGxvYWQv/MTQwMzI2NzgvZmls/ZS9vcmlnaW5hbC1l/ZWJkYjk5NjVkYjQy/MTRhZmRhMTUzYTBh/OTI2MmZmYy5wbmc_/Zm9ybWF0PXdlYnAm/cmVzaXplPTQwMHgz/MDAmdmVydGljYWw9/Y2VudGVy",
     tags: ["react","CSS","Tailwind","Vite"],
     github: "https://github.com/NKNakulkumar/Restaurant_Menu_Appllication..",
     demo: "https://nakulmenuapp.netlify.app/"
