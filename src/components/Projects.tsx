@@ -32,7 +32,7 @@ const projects = [
   {
     title: "Restaurant_App",
     description: "This is a simple and user-friendly app that lets customers view a restaurant’s menu digitally. It shows different food categories like breakfast,lunch,evening,dinner and details. ",
-    image: "https://www.motocms.com/blog/wp-content/uploads/2020/09/Crunchos_107069_menu_tabs.jpg",
+    image: "/src/components/images/restaurant.jpg",
     tags: ["react","CSS","Tailwind","Vite"],
     github: "https://github.com/NKNakulkumar/Restaurant_Menu_Appllication..",
     demo: "https://nakulmenuapp.netlify.app/"
