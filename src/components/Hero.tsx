@@ -48,7 +48,7 @@ const Hero = () => {
                 Get in touch
               </a>
               <a
-                href="https://github.com/NKNakulkumar" target="_blanked" rel="noreferrer"
+                href="https://github.com/nakulkumar99" target="_blanked" rel="noreferrer"
                 className="bg-purple-600 text-white px-6 py-3 rounded-full hover:bg-purple-700 transition-colors text-center"
               >
                 GitHub

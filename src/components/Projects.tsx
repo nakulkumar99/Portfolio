@@ -10,15 +10,15 @@ const projects = [
     description: "Welcome to the College Website project! This is a multipage website designed to help users understand more about the college,explore the campus life, courses, and more.",
     image: "https://uicookies.com/wp-content/uploads/2018/08/education-free-college-website-templates.jpg",
     tags: ["HTML", "CSS"],
-    github: "https://github.com/NKNakulkumar/College--Website",
-    demo: "https://nknakulkumar.github.io/College-Website/"
+    github: "https://github.com/nakulkumar99/College-Website",
+    demo: "https://nakulkumar99.github.io/College-Website/"
   },
   {
     title: "Weather Forecast Application",
     description: "Next.js real-time weather app delivering accurate forecasts, live temperature updates, interactive maps, and detailed city-wise meteorological insights worldwide.",
     image: "https://cdn.dribbble.com/userupload/5015400/file/original-c61751cdfbfdaf884a0cc8493917fc1d.png?resize=1600x1200",
     tags: ["Next.js","DaisyUI","Axios","Recharts"],
-    github: "https://github.com/NKNakulkumar/Weather-application",
+    github: "https://github.com/nakulkumar99/Weather-application",
     demo: "https://weatherclimateapp.vercel.app/"
   },
   {
@@ -26,15 +26,15 @@ const projects = [
     description: "Hello this is an Website Blocker browser extension is a tool that helps users limit or block access to specific websites while browsing.",
     image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&q=80&w=800",
     tags: ["react","CSS","Tailwind","Vite"],
-    github: "https://github.com/NKNakulkumar/Website-Blocker-Extension",
-    demo: "https://github.com/NKNakulkumar/Website-Blocker-Extension"
+    github: "https://github.com/nakulkumar99/Block-Box-Extension",
+    demo: "https://github.com/nakulkumar99/Website-Blocker-Extension"
   },
   {
     title: "Restaurant_App",
     description: "This is a simple and user-friendly app that lets customers view a restaurant’s menu digitally. It shows different food categories like breakfast,lunch,evening,dinner and details. ",
     image: "https://imgs.search.brave.com/58sYoKOr8W3cMwK5PL_W34UsBhh3mDNk8owjfDzrbro/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJ1cGxvYWQv/MTQwMzI2NzgvZmls/ZS9vcmlnaW5hbC1l/ZWJkYjk5NjVkYjQy/MTRhZmRhMTUzYTBh/OTI2MmZmYy5wbmc_/Zm9ybWF0PXdlYnAm/cmVzaXplPTQwMHgz/MDAmdmVydGljYWw9/Y2VudGVy",
     tags: ["react","CSS","Tailwind","Vite"],
-    github: "https://github.com/NKNakulkumar/Restaurant_Menu_Appllication..",
+    github: "https://github.com/nakulkumar99/Restaurant_Menu_Appllication..",
     demo: "https://nakulmenuapp.netlify.app/"
   }
 ];
